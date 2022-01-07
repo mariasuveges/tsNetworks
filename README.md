@@ -1,5 +1,6 @@
 # tsNetworks
 
+Autoregressive dynamical networks.
 
 Two R script files, containing the procedures to fit non-stationary autoregressive link community models to high-resolution time series of network snapshots. The fitted models provide detailed daily contact probability patterns between actors in the network (also nonstationary ones), and estimates of their correlation (the tendency of an interaction to persist once it is formed) over time. Potential uses include, for example, detailed temporal risk analysis of mobile phone or energy networks for overload, or the spread of an epidemic over a social network.
 
